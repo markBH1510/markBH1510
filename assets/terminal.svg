@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <defs>
+    <clipPath id="c"><rect width="1200" height="430" rx="14"/></clipPath>
+    <style>
+      .m { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; font-size: 17px; }
+      .p { fill: #00ff9c; } .u { fill: #00e5ff; } .t { fill: #d7e3ee; } .g { fill: #6b7f93; } .r { fill: #ff5c7a; } .y { fill: #ffc857; }
+      .l { opacity: 0; animation: show .01s linear forwards; }
+      @keyframes show { to { opacity: 1; } }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="430" fill="#070b12"/>
+    <rect width="1200" height="40" fill="#0e1622"/>
+    <circle cx="26" cy="20" r="7" fill="#ff5f57"/><circle cx="50" cy="20" r="7" fill="#febc2e"/><circle cx="74" cy="20" r="7" fill="#28c840"/>
+    <text class="m g" x="600" y="26" text-anchor="middle" font-size="14">mark@soc-core: ~</text>
+
+    <g class="m">
+      <text class="l" style="animation-delay:.3s"  x="28" y="80"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">whoami</tspan></text>
+      <text class="l" style="animation-delay:.9s"  x="28" y="108" ><tspan class="u">L2 SOC · Threat Hunter · Fortinet perimeter guy · CS grad (Excellent, Honors)</tspan></text>
+
+      <text class="l" style="animation-delay:1.8s" x="28" y="150"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">cat ~/philosophy.txt</tspan></text>
+      <text class="l" style="animation-delay:2.4s" x="28" y="178"><tspan class="t">"If an alert fired, I know why. If it didn't, I know where it hid."</tspan></text>
+
+      <text class="l" style="animation-delay:3.4s" x="28" y="220"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">grep -c "false positive" /var/log/siem/today.log</tspan></text>
+      <text class="l" style="animation-delay:4.0s" x="28" y="248"><tspan class="y">0</tspan><tspan class="g">    # not muted. tuned.</tspan></text>
+
+      <text class="l" style="animation-delay:5.0s" x="28" y="290"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">sudo reboot prod-server</tspan></text>
+      <text class="l" style="animation-delay:5.6s" x="28" y="318"><tspan class="r">denied:</tspan><tspan class="t"> find the root cause first. rebooting is not a strategy.</tspan></text>
+
+      <text class="l" style="animation-delay:6.6s" x="28" y="360"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">ping coffee.local</tspan></text>
+      <text class="l" style="animation-delay:7.2s" x="28" y="388"><tspan class="g">64 bytes from coffee.local: icmp_seq=1 ttl=64 time=0.3ms — </tspan><tspan class="u">uptime restored</tspan><tspan class="u caret"> ▌</tspan></text>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="429" rx="14" fill="none" stroke="#1b2a3a"/>
+</svg>
