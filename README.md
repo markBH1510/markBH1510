@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Mark Bahaa Helmy — Cyber Security Engineer" />
+  <img src="./assets/header-v2.svg" width="100%" alt="Mark Bahaa Helmy — Cyber Security Engineer" />
 </p>
 
 <p align="center">
