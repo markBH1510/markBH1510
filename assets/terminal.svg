@@ -29,8 +29,8 @@
       <text class="l" style="animation-delay:5.0s" x="28" y="290"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">sudo reboot prod-server</tspan></text>
       <text class="l" style="animation-delay:5.6s" x="28" y="318"><tspan class="r">denied:</tspan><tspan class="t"> find the root cause first. rebooting is not a strategy.</tspan></text>
 
-      <text class="l" style="animation-delay:6.6s" x="28" y="360"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">ping coffee.local</tspan></text>
-      <text class="l" style="animation-delay:7.2s" x="28" y="388"><tspan class="g">64 bytes from coffee.local: icmp_seq=1 ttl=64 time=0.3ms — </tspan><tspan class="u">uptime restored</tspan><tspan class="u caret"> ▌</tspan></text>
+      <text class="l" style="animation-delay:6.6s" x="28" y="360"><tspan class="p">mark@soc</tspan><tspan class="g">:~$ </tspan><tspan class="t">ping juice.local</tspan></text>
+      <text class="l" style="animation-delay:7.2s" x="28" y="388"><tspan class="g">64 bytes from juice.local: icmp_seq=1 ttl=64 time=0.3ms — </tspan><tspan class="u">uptime restored</tspan><tspan class="u caret"> ▌</tspan></text>
     </g>
   </g>
   <rect x="0.5" y="0.5" width="1199" height="429" rx="14" fill="none" stroke="#1b2a3a"/>
