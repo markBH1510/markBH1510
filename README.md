@@ -44,7 +44,7 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Got a weird log line?" />
+  <img src="./assets/footer-v2.svg" width="100%" alt="Got a weird log line?" />
 </p>
 
 <p align="center">
