@@ -1,0 +1,15 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='385' height='130' viewBox='0 0 385 130'><defs>    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05080f"/><stop offset="100%" stop-color="#0b1424"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#12324a" stroke-width="0.6"/>
+    </pattern><clipPath id='clip'><rect width='385' height='130' rx='18'/></clipPath><style>      .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
+      .sans { font-family: 'Segoe UI','Inter',Helvetica,Arial,sans-serif; }
+      .rise { opacity: 0; animation: rise .8s ease-out forwards; }
+      @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      .pulse { animation: pulse 1.6s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+      .caret { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .scan { animation: scan 7s linear infinite; }
+      @keyframes scan { from { transform: translateY(-40px); } to { transform: translateY(700px); } }</style></defs><g clip-path='url(#clip)'><rect width='385' height='130' fill='url(#bg)'/><rect width='385' height='130' fill='url(#grid)' opacity='0.45'/><text class='sans rise' x='600' y='58' font-size='26' font-weight='800' fill='#e6f7ff' text-anchor='middle'>Got a weird log line nobody can explain?</text><text class='mono rise' style='animation-delay:.4s' x='600' y='94' font-size='16' fill='#00e5ff' text-anchor='middle'>send it over. I will find who wrote it<tspan class='caret'> â–Œ</tspan></text></g><rect x='0.5' y='0.5' width='384' height='129' rx='18' fill='none' stroke='#1b3a52'/></svg>

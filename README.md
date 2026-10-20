@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="./assets/header.svg" width="100%" alt="Mark Bahaa Helmy — Cyber Security Engineer" />
 </p>
 
@@ -19,74 +19,38 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🛡️ Perimeter
-FortiGate HA · SD-WAN · IPsec / SSL-VPN<br/>
-FortiManager · VLAN segmentation · AD / LDAP
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎯 Detection
-FortiSIEM · Splunk SPL · Elastic KQL<br/>
-Security Onion · Sysmon · MITRE ATT&CK · CTI
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🔬 Forensics
-Volatility · FTK Imager · $MFT · Prefetch<br/>
-Registry · Order of volatility · Root cause
-
-</td>
-<td width="50%" valign="top">
-
-#### ⚙️ Automation
-Python · Bash · PowerShell · REST / SNMP<br/>
-Linux (RHEL · Ubuntu · Kali) · PostgreSQL
-
-</td>
-</tr>
-</table>
-
+<!-- ================= ARSENAL ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Fortinet-0b1424?style=flat-square&logo=fortinet&logoColor=EE3124" />
-  <img src="https://img.shields.io/badge/-Splunk-0b1424?style=flat-square&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-0b1424?style=flat-square&logo=elastic&logoColor=00BFB3" />
-  <img src="https://img.shields.io/badge/-Wireshark-0b1424?style=flat-square&logo=wireshark&logoColor=1679A7" />
-  <img src="https://img.shields.io/badge/-Python-0b1424?style=flat-square&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/-Linux-0b1424?style=flat-square&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/-PowerShell-0b1424?style=flat-square&logo=powershell&logoColor=5391FE" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-0b1424?style=flat-square&logo=postgresql&logoColor=4169E1" />
-</p>
-
----
-
-<h4 align="center">📜 Credentials</h4>
-
-<p align="center">
-  <code>Fortinet FCP — Network Security</code>&nbsp;
-  <code>Google Cybersecurity</code>&nbsp;
-  <code>EC-Council EHE · NDE · DFE</code>&nbsp;
-  <code>THM PenTest+ Path</code><br/>
-  <code>FCSS — in progress</code>&nbsp;
-  <code>Huawei HCIA Datacom — in progress</code>&nbsp;
-  <code>B.Sc. Computer Science — Excellent, Honors</code>
-</p>
-
-<h4 align="center">🔎 Case files</h4>
-
-<p align="center">
-  <a href="https://github.com/markBH1510/DFIR-Web-Application-Compromise-Investigation"><b>Web App Compromise</b></a> — the payload that broke itself ·
-  <a href="https://github.com/markBH1510/DFIR-Cloud-Ransomware-Investigation"><b>Cloud Ransomware</b></a> — Azure + FortiOS ·
-  <a href="https://github.com/markBH1510/Threat-Hunting-Reports"><b>Threat Hunting Reports</b></a> — ATT&CK → SPL
+  <img src="./assets/arsenal.svg" width="100%" alt="Mark's Technical Arsenal" />
 </p>
 
 <br/>
 
-<p align="center"><sub>Got a weird log line nobody can explain? Send it over. <a href="https://wa.me/201222490811?text=Hi%20Mark%2C%20found%20you%20on%20GitHub">WhatsApp</a> · <a href="https://mail.google.com/mail/?view=cm&fs=1&to=markbahaa2002ew@gmail.com">Gmail</a></sub></p>
+<!-- ================= CREDENTIALS ================= -->
+<p align="center">
+  <img src="./assets/credentials.svg" width="100%" alt="Verified Credentials & Certifications" />
+</p>
+
+<br/>
+
+<!-- ================= CASE FILES ================= -->
+<p align="center">
+  <a href="https://github.com/markBH1510/DFIR-Web-Application-Compromise-Investigation"><img src="./assets/case-001.svg" width="32%" alt="Case 001 - Web App Compromise" /></a>
+  <a href="https://github.com/markBH1510/DFIR-Cloud-Ransomware-Investigation"><img src="./assets/case-002.svg" width="32%" alt="Case 002 - Cloud Ransomware" /></a>
+  <a href="https://github.com/markBH1510/Threat-Hunting-Reports"><img src="./assets/case-003.svg" width="32%" alt="Case 003 - Threat Hunting" /></a>
+</p>
+
+<br/>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Got a weird log line?" />
+</p>
+
+<p align="center">
+  <a href="https://wa.me/201222490811?text=Hi%20Mark%2C%20found%20you%20on%20GitHub"><img src="https://img.shields.io/badge/WhatsApp-Send_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=markbahaa2002ew@gmail.com"><img src="https://img.shields.io/badge/Gmail-Compose_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/markbahaah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
